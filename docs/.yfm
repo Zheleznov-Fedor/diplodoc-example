@@ -9,8 +9,8 @@ resources:
 docs-viewer:
   project-name: design_30ki
   langs: ['en', 'ru']
-  favicon-src: https://storage.yandexcloud.net/diplodoc-www-assets/favicon/favicon.ico
-  github-url-prefix: https://github.com/diplodoc-platform/docs/blob/master
+  favicon-src: https://raw.githubusercontent.com/Zheleznov-Fedor/diplodoc-example/main/favicon.ico
+  github-url-prefix: https://github.com/Zheleznov-Fedor/diplodoc-example
   logo-link-preview: https://raw.githubusercontent.com/Zheleznov-Fedor/diplodoc-example/0d8dfe98cfc3c8b10643ca3ada428064d910e47f/logo.svg
   logo-options:
     src: https://raw.githubusercontent.com/Zheleznov-Fedor/diplodoc-example/0d8dfe98cfc3c8b10643ca3ada428064d910e47f/logo.svg
