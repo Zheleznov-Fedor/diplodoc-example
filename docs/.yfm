@@ -7,7 +7,7 @@ resources:
     - _assets/style/custom.css
 
 docs-viewer:
-  project-name: diplodoc
+  project-name: design_30ki
   langs: ['en', 'ru']
   favicon-src: https://storage.yandexcloud.net/diplodoc-www-assets/favicon/favicon.ico
   github-url-prefix: https://github.com/diplodoc-platform/docs/blob/master
@@ -18,7 +18,7 @@ docs-viewer:
     src-preview:
       ru: https://storage.yandexcloud.net/diplodoc-www-assets/navigation/diplodoc-share-doc-ru.png
       default: https://storage.yandexcloud.net/diplodoc-www-assets/navigation/diplodoc-share-doc-eng.png
-    title: Diplodoc
+    title: Design 30ki
     img-has:
       width: 220px
       offset: true
