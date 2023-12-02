@@ -11,14 +11,13 @@ docs-viewer:
   langs: ['en', 'ru']
   favicon-src: https://raw.githubusercontent.com/Zheleznov-Fedor/diplodoc-example/main/favicon.ico
   github-url-prefix: https://github.com/Zheleznov-Fedor/diplodoc-example
-  logo-link-preview: https://raw.githubusercontent.com/Zheleznov-Fedor/diplodoc-example/0d8dfe98cfc3c8b10643ca3ada428064d910e47f/logo.svg
+  logo-link-preview: https://raw.githubusercontent.com/Zheleznov-Fedor/diplodoc-example/main/logo.svg
   logo-options:
-    src: https://raw.githubusercontent.com/Zheleznov-Fedor/diplodoc-example/0d8dfe98cfc3c8b10643ca3ada428064d910e47f/logo.svg
-    src-dark: https://raw.githubusercontent.com/Zheleznov-Fedor/diplodoc-example/0d8dfe98cfc3c8b10643ca3ada428064d910e47f/logo-dark.svg
+    src: https://raw.githubusercontent.com/Zheleznov-Fedor/diplodoc-example/main/logo.svg
+    src-dark: https://raw.githubusercontent.com/Zheleznov-Fedor/diplodoc-example/main/logo-dark.svg
     src-preview:
       ru: https://raw.githubusercontent.com/Zheleznov-Fedor/diplodoc-example/main/share-doc-ru.png
-      default: https://github.com/Zheleznov-Fedor/diplodoc-example/blob/main/share-doc-en.png
+      default: https://raw.githubusercontent.com/Zheleznov-Fedor/diplodoc-example/blob/main/share-doc-en.png
     title: Design 30ki
     img-has:
-      width: 220px
       offset: true
