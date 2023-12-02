@@ -1,6 +1,6 @@
 disableLiquid: true
 allowHTML: true
-langs: ['en']
+langs: ['en', 'ru']
 
 resources:
   style:
