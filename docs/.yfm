@@ -19,5 +19,3 @@ docs-viewer:
       ru: https://raw.githubusercontent.com/Zheleznov-Fedor/diplodoc-example/main/share-doc-ru.png
       default: https://raw.githubusercontent.com/Zheleznov-Fedor/diplodoc-example/blob/main/share-doc-en.png
     title: Design 30ki
-    img-has:
-      offset: true
